@@ -1,0 +1,69 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "azureFirewalls_Ala_FW_name": {
+            "value": null
+        },
+        "servers_ala_db_server_soc_name": {
+            "value": null
+        },
+        "vaults_ala_vaults_soc_name": {
+            "value": null
+        },
+        "bastionHosts_ala_vm_bastion_name": {
+            "value": null
+        },
+        "virtualMachines_vm_soc_ala_1_name": {
+            "value": null
+        },
+        "virtualMachines_vm_soc_ala_2_name": {
+            "value": null
+        },
+        "virtualMachines_vm_soc_ala_3_name": {
+            "value": null
+        },
+        "virtualNetworks_Vnet_Soc_Ala_name": {
+            "value": null
+        },
+        "publicIPAddresses_PublicIpAla_name": {
+            "value": null
+        },
+        "firewallPolicies_Ala_FW_Policy_name": {
+            "value": null
+        },
+        "publicIPAddresses_PublicIpManaAla_name": {
+            "value": null
+        },
+        "publicIPAddresses_Vnet_Soc_Ala_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_soc_ala_128_z2_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_soc_ala_1301_z1_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_soc_ala_1557_z3_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_soc_ala_1_nsg_name": {
+            "value": null
+        },
+        "privateEndpoints_private_endpoint_ala_bd_name": {
+            "value": null
+        },
+        "ddosProtectionPlans_DDoS_Plan_20240807181441_name": {
+            "value": null
+        },
+        "workspaces_log_analytics_ala_soc_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_database_windows_net_name": {
+            "value": null
+        }
+    }
+}
